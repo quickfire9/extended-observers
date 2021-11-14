@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generates",
+    "testures": {
+        "layer0": "extendedobservers:item/extender"
+    }
+}
